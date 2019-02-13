@@ -1,0 +1,13 @@
+#restLogo{
+    background-color: black;
+}
+.combo_price{
+
+    font-size: 20px;
+    color: red
+}
+.contact{
+    position: absolute;
+    border-bottom: 5px;
+    right:5%;
+  }
